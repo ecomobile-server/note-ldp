@@ -1572,18 +1572,6 @@ footer {
   letter-spacing: -1.5px;
   margin: 0 0 18px;
 }
-.legal-source {
-  font-size: 12px;
-  color: var(--muted);
-  border-bottom: 1px solid #e3e9ed;
-  padding-bottom: 22px;
-  margin-bottom: 30px;
-  overflow-wrap: anywhere;
-}
-.legal-source a {
-  text-decoration: underline;
-  text-underline-offset: 3px;
-}
 .legal h2 {
   font-size: 22px;
   letter-spacing: -0.4px;
